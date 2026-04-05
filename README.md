@@ -18,7 +18,7 @@ I'm an AI-native Product Manager. Currently at InsuranceDekho (CarDekho Group) w
 - **Product Manager (Platform & AI Initiatives)** at InsuranceDekho: AI intiatives, LLM vendor evaluations, OKRs, building with 8 developers and 1 data scientist
 - Shipped (to name a few): Health insurance RAG chatbot, Vehicle model mapping engine (fuzzy logic + LLM + RAG), Customer support AI workflow
 - Previously at jumpingMinds.ai - A mental health platform with 60k+ MAU offering therapy and peer support
-- Before that, Classplus — a Tiger Global and Sequoia-backed B2B edtech platform valued at ~$600M, serving 100k+ educators across 3,000+ towns in India
+- Before that, Classplus - a Tiger Global and Sequoia-backed B2B edtech platform valued at ~$600M, serving 100k+ educators across 3,000+ towns in India
 - Background in Chemistry (University of Delhi, CGPA 9.16) — got into product after classplus, where I started with content marketing & growth, across youtube abd mobile apps for my clients (5 Cr portfolio).
 
 ---
