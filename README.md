@@ -1,10 +1,6 @@
 # Hi, I'm Ayush 👋
 
-I'm an AI-native Product Manager. Currently at InsuranceDekho (CarDekho Group) where I lead the platform product and run AI initiatives.
-
-Most of my work involves optimising the platform product (5L+ MAU) and shipping AI systems in production.
-
-I also build things on the side to keep myself hands-on.
+I'm an AI-native Product Manager. Currently at InsuranceDekho (CarDekho Group) where I lead the platform product and run AI initiatives. Most of my work involves optimising the platform product (5L+ MAU) and shipping AI systems in production. I also build things on the side to keep myself hands-on.
 
 ---
 
