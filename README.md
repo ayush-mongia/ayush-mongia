@@ -42,4 +42,4 @@ I'm an AI-native Product Manager. Currently at InsuranceDekho (CarDekho Group) w
 
 ---
 
-LinkedIn](https://linkedin.com/in/ayushmongia)
+[LinkedIn](https://linkedin.com/in/ayushmongia)
