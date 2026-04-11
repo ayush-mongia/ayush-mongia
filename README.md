@@ -30,6 +30,7 @@ I'm an AI-native Product Manager. Currently at InsuranceDekho (CarDekho Group) w
   | [**promptx**](https://github.com/ayush-mongia/promptx) | Type system for LLM prompts | Claude Code |
   | [**rag-vs-pageindex**](https://github.com/ayush-mongia/rag-vs-pageindex) | RAG vs PageIndex retrieval comparison | Streamlit · Gemini |                                                                                                         
   | [**BUZZZ**](https://buzzz-app-drab.vercel.app/) | Caffeine pharmacokinetics tracker | JS · Vercel |
+  | [**ig-analysis-engine**](https://github.com/ayush-mongia/ig-analysis-engine) | AI-powered Instagram analytics via n8n | n8n · Gemini · Gmail |    
 
 ---
 
