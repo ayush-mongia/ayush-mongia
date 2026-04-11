@@ -8,7 +8,8 @@ I'm an AI-native Product Manager. Currently at InsuranceDekho (CarDekho Group) w
 
 - **AI systems in production**: AI automation workflows, LLM-based engines, Model evals, customer support agents.
 - **Platform product**: Transaction journeys & system optimisations across motor, health, life, & renewals LOBs.
-- **Latest side project**: Building a system that brings software engineering discipline to prompting: writing, versioning, and test-like validations.
+- **Latest side project**: [promptx](https://github.com/ayush-mongia/promptx) - brings software engineering discipline to    
+  prompting: schemas, contracts, adversarial stress-testing, and behavioral diffs across versions.  
 - **Other projects**: RAG-vs-Pageindex comparison pipeline & caffiene tracking engine.
 
 ---
@@ -25,10 +26,14 @@ I'm an AI-native Product Manager. Currently at InsuranceDekho (CarDekho Group) w
 
 ## Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**rag-vs-pageindex**](https://github.com/ayush-mongia/rag-vs-pageindex) | Streamlit app comparing RAG vs PageIndex retrieval | Python, Streamlit, Gemini |
-| [**BUZZZ**](https://buzzz-app-drab.vercel.app/) | Caffeine pharmacokinetics tracker, Y2K terminal aesthetic | HTML/CSS/JS, Vercel |
+  | Project | What it does | Stack |                                                                                           
+  |---|---|---|                                                                                                                
+  | [**promptx**](https://github.com/ayush-mongia/promptx) | Type system for LLM prompts - schemas, contracts, adversarial
+  stress-testing, and behavioral diffs | Claude Code |                                                                         
+  | [**rag-vs-pageindex**](https://github.com/ayush-mongia/rag-vs-pageindex) | Streamlit app comparing RAG vs PageIndex
+  retrieval | Python, Streamlit, Gemini |                                                                                      
+  | [**BUZZZ**](https://buzzz-app-drab.vercel.app/) | Caffeine pharmacokinetics tracker, Y2K terminal aesthetic | HTML/CSS/JS,
+  Vercel |    
 
 ---
 
