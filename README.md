@@ -27,12 +27,9 @@ I'm an AI-native Product Manager. Currently at InsuranceDekho (CarDekho Group) w
                                                                                                                                
   | Project | What it does | Stack |                                                                                           
   |---|---|---|                                                                                                                
-  | [**promptx**](https://github.com/ayush-mongia/promptx) | Type system for LLM prompts — schemas, contracts, and behavioral  
-  diffs | Claude Code |                                                                                                        
-  | [**rag-vs-pageindex**](https://github.com/ayush-mongia/rag-vs-pageindex) | Streamlit app comparing RAG vs PageIndex
-  retrieval | Python, Streamlit, Gemini |                                                                                      
-  | [**BUZZZ**](https://buzzz-app-drab.vercel.app/) | Caffeine pharmacokinetics tracker, Y2K terminal aesthetic | HTML/CSS/JS,
-  Vercel |     
+  | [**promptx**](https://github.com/ayush-mongia/promptx) | Type system for LLM prompts | Claude Code |
+  | [**rag-vs-pageindex**](https://github.com/ayush-mongia/rag-vs-pageindex) | RAG vs PageIndex retrieval comparison | Streamlit · Gemini |                                                                                                         
+  | [**BUZZZ**](https://buzzz-app-drab.vercel.app/) | Caffeine pharmacokinetics tracker | JS · Vercel |
 
 ---
 
